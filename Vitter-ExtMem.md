@@ -4,6 +4,9 @@ Jeffrey Scott Vitter
 
 This paper is an updated version of the article in ACM Computing Surveys, Vol. 33, No. 2, June 2001
 
+Original citation: J. S. Vitter, “External memory algorithms and data structures: Dealing with massive data,” ACM Computing surveys (CsUR), vol. 33, no. 2, pp. 209–271, 2001.
+
+
 ## Abstract
 
 Data sets in large applications are often too massive to fit completely inside the computer’s internal
@@ -50,6 +53,6 @@ configurations.
 
 ## URLS
 
-2007 Revised Paper: http://crono.dei.unipd.it/~lds/MATERIALE/Vit.IO_survey.pdf
-2001 Original Paper: http://dl.acm.org/authorize?11441
-2008 Book: http://www.ittc.ku.edu/~jsv/Papers/Vit.IO_book.pdf 
+* 2007 Revised Paper: http://crono.dei.unipd.it/~lds/MATERIALE/Vit.IO_survey.pdf
+* 2001 Original Paper: http://dl.acm.org/authorize?11441
+* 2008 Book: http://www.ittc.ku.edu/~jsv/Papers/Vit.IO_book.pdf 
